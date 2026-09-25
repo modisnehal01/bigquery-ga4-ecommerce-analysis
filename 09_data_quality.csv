@@ -1,0 +1,10 @@
+check_name,event_count
+Total events,4295584
+Missing event names,0
+Missing visitor IDs,0
+Missing timestamps,0
+Invalid dates,0
+Purchases without transaction ID,23
+Negative purchase revenue,0
+Purchases without items,2
+Selected events without session ID,0
